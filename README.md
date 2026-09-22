@@ -105,3 +105,75 @@ https://3ms8pd.biz/live/459677/Q8frRC/72338.ts
 https://3ms8pd.biz/live/459677/Q8frRC/72339.ts
 #EXTINF:-1 tvg-name="SYFY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKf3YOJSU6Q6n_ZcDiXq33V5CqMAFbXiXC_dhIyzkA5w&s" group-title="FILMES E SERIES",SYFY HD
 https://3ms8pd.biz/live/459677/Q8frRC/72340.ts
+
+#EXTM3U
+
+# ========= HBO =========
+#EXTINF:-1 tvg-name="HBO 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/HBO_logo_2020.svg" group-title="HBO",HBO 4K
+https://3ms8pd.biz/live/459677/Q8frRC/90247.ts
+#EXTINF:-1 tvg-name="HBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/HBO_logo_2020.svg" group-title="HBO",HBO FHD
+https://3ms8pd.biz/live/459677/Q8frRC/72118.ts
+#EXTINF:-1 tvg-name="HBO FHD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/HBO_logo_2020.svg" group-title="HBO",HBO FHD+
+https://3ms8pd.biz/live/459677/Q8frRC/72119.ts
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/HBO_logo_2020.svg" group-title="HBO",HBO HD
+https://3ms8pd.biz/live/459677/Q8frRC/72120.ts
+
+# ========= HBO2 =========
+#EXTINF:-1 tvg-name="HBO2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/HBO_2_logo.svg" group-title="HBO",HBO2 4K
+https://3ms8pd.biz/live/459677/Q8frRC/90246.ts
+#EXTINF:-1 tvg-name="HBO2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/HBO_2_logo.svg" group-title="HBO",HBO2 FHD
+https://3ms8pd.biz/live/459677/Q8frRC/72110.ts
+#EXTINF:-1 tvg-name="HBO2 FHD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/HBO_2_logo.svg" group-title="HBO",HBO2 FHD+
+https://3ms8pd.biz/live/459677/Q8frRC/72111.ts
+#EXTINF:-1 tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/HBO_2_logo.svg" group-title="HBO",HBO2 HD
+https://3ms8pd.biz/live/459677/Q8frRC/72112.ts
+
+# ========= HBO FAMILY =========
+#EXTINF:-1 tvg-name="HBO FAMILY 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/HBO_Family_logo.png" group-title="HBO",HBO FAMILY 4K
+https://3ms8pd.biz/live/459677/Q8frRC/90637.ts
+#EXTINF:-1 tvg-name="HBO FAMILY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/HBO_Family_logo.png" group-title="HBO",HBO FAMILY FHD
+https://3ms8pd.biz/live/459677/Q8frRC/72114.ts
+#EXTINF:-1 tvg-name="HBO FAMILY FHD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/HBO_Family_logo.png" group-title="HBO",HBO FAMILY FHD+
+https://3ms8pd.biz/live/459677/Q8frRC/72115.ts
+#EXTINF:-1 tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/HBO_Family_logo.png" group-title="HBO",HBO FAMILY HD
+https://3ms8pd.biz/live/459677/Q8frRC/72116.ts
+
+# ========= HBO MUNDI =========
+#EXTINF:-1 tvg-name="HBO MUNDI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_Mundi_logo.png" group-title="HBO",HBO MUNDI 4K
+https://3ms8pd.biz/live/459677/Q8frRC/103496.ts
+#EXTINF:-1 tvg-name="HBO MUNDI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_Mundi_logo.png" group-title="HBO",HBO MUNDI FHD
+https://3ms8pd.biz/live/459677/Q8frRC/72121.ts
+#EXTINF:-1 tvg-name="HBO MUNDI FHD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_Mundi_logo.png" group-title="HBO",HBO MUNDI FHD+
+https://3ms8pd.biz/live/459677/Q8frRC/72123.ts
+#EXTINF:-1 tvg-name="HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_Mundi_logo.png" group-title="HBO",HBO MUNDI HD
+https://3ms8pd.biz/live/459677/Q8frRC/72124.ts
+
+# ========= HBO PLUS =========
+#EXTINF:-1 tvg-name="HBO PLUS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/HBO_Plus_logo.png" group-title="HBO",HBO PLUS 4K
+https://3ms8pd.biz/live/459677/Q8frRC/90635.ts
+#EXTINF:-1 tvg-name="HBO PLUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/HBO_Plus_logo.png" group-title="HBO",HBO PLUS FHD
+https://3ms8pd.biz/live/459677/Q8frRC/72125.ts
+#EXTINF:-1 tvg-name="HBO PLUS FHD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/HBO_Plus_logo.png" group-title="HBO",HBO PLUS FHD+
+https://3ms8pd.biz/live/459677/Q8frRC/72126.ts
+#EXTINF:-1 tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/HBO_Plus_logo.png" group-title="HBO",HBO PLUS HD
+https://3ms8pd.biz/live/459677/Q8frRC/72127.ts
+
+# ========= HBO SIGNATURE =========
+#EXTINF:-1 tvg-name="HBO SIGNATURE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/HBO_Signature_logo.svg" group-title="HBO",HBO SIGNATURE 4K
+https://3ms8pd.biz/live/459677/Q8frRC/72134.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/HBO_Signature_logo.svg" group-title="HBO",HBO SIGNATURE FHD
+https://3ms8pd.biz/live/459677/Q8frRC/72135.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE FHD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/HBO_Signature_logo.svg" group-title="HBO",HBO SIGNATURE FHD+
+https://3ms8pd.biz/live/459677/Q8frRC/72136.ts
+#EXTINF:-1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/HBO_Signature_logo.svg" group-title="HBO",HBO SIGNATURE HD
+https://3ms8pd.biz/live/459677/Q8frRC/72137.ts
+
+# ========= HBO XTREME =========
+#EXTINF:-1 tvg-name="HBO XTREME 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/HBO_Xtreme_logo.png" group-title="HBO",HBO XTREME 4K
+https://3ms8pd.biz/live/459677/Q8frRC/90636.ts
+#EXTINF:-1 tvg-name="HBO XTREME FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/HBO_Xtreme_logo.png" group-title="HBO",HBO XTREME FHD
+https://3ms8pd.biz/live/459677/Q8frRC/72138.ts
+#EXTINF:-1 tvg-name="HBO XTREME FHD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/HBO_Xtreme_logo.png" group-title="HBO",HBO XTREME FHD+
+https://3ms8pd.biz/live/459677/Q8frRC/72139.ts
+#EXTINF:-1 tvg-name="HBO XTREME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/HBO_Xtreme_logo.png" group-title="HBO",HBO XTREME HD
+https://3ms8pd.biz/live/459677/Q8frRC/72140.ts
